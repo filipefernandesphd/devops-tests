@@ -2,6 +2,11 @@
 
 Projeto para ajudar na implementação da infraestrutura da arquitetura da plataforma, ou seja, rotinas para obter os MVs e disponbilizá-los online.
 
+## Estrutura do Projeto
+
+- `./platform`: aplicação para simular a plataforma que receberá o link do repositório
+
+
 # Workflow
 
 1. A plataforma recebe o código do MV (por meio de repostório do git ou .zip)
