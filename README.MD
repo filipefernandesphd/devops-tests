@@ -63,7 +63,7 @@ chmod +x monitor.sh
 Description=Monitoramento de Pasta
 
 [Service]
-ExecStart=/dev/monitor.sh
+ExecStart=/home/monitor.sh
 Restart=always
 
 [Install]
